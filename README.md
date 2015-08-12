@@ -2,7 +2,8 @@
 Command prompt extensions
 
 ## Installation instructions
-Run the installer .msi and you're ready to go. Simple as that.
+Run setup.exe and you're ready to go. Simple as that.
+You can also download the source and compile the extensions yourself although this might cost some more efford, the project does not include an automated method to build all extensions at the same time.
 
 ## Supported commands
 
